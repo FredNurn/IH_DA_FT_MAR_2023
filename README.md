@@ -1095,7 +1095,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_DA_FT_MAR_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<a href="https://github.com/repicao/IH_DA_FT_MAR_2023/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_KNN_Classification.ipynb">[Notebook] KNN</a>
 <p>
 <br>
 <p>
