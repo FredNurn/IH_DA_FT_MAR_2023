@@ -2,7 +2,7 @@
 
 
 ### Purpose
-The aim of the final Project is to present the learners with a final opportunity to put their newly acquired skills into practice.
+The aim of the final Project is to give you a final opportunity to put your newly acquired skills into practice.
 
 ### Timeline 
 Turn in all deliverables and meet all requirements by the end of Week 9
@@ -19,7 +19,7 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 ### Rules
 - Team of two people is recommended and it is the maximum number allowed. An exception might be applied after the approval from the teaching team.
-- every team has 6 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
+- every team has 7 minutes of presentation time (unless you have a bonus point) and 5 mins for Q&A/feedback.
 - you should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of questions that need clarification.
 --- 
 
